@@ -25,7 +25,7 @@ setup(
     # Set the project name.
     # See: 
     #    https://packaging.python.org/tutorials/distributing-packages/#name
-    name="azcliextsample",
+    name="helloworldsample",
 
     # Set the current version of this project, should comply with PEP440.  
     # See:
@@ -93,7 +93,7 @@ setup(
     #    https://github.com/Azure/azure-cli/blob/master/doc/extensions/metadata.md
     #    https://packaging.python.org/tutorials/distributing-packages/#package-data
     package_data={
-        'azext_azcliextsample': ['azext_metadata.json'],
+        'azext_helloworldsample': ['azext_metadata.json'],
     },
 
     # Set run-time dependencies for this project.

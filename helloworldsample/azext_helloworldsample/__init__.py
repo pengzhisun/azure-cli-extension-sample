@@ -23,4 +23,4 @@ def load_params(_):
 
 def load_commands():
     from azure.cli.core.commands import cli_command
-    cli_command(__name__, 'hello world', 'azext_azcliextsample#helloworld')
+    cli_command(__name__, 'hello world', 'azext_helloworldsample#helloworld')
