@@ -25,7 +25,7 @@ setup(
     # Set the project name.
     # See: 
     #    https://packaging.python.org/tutorials/distributing-packages/#name
-    name="azext_sample",
+    name="sample",
 
     # Set the current version of this project, should comply with PEP440.  
     # See:
