@@ -1,0 +1,13 @@
+/* ==============================================================================
+ * File Name:    azext_metadata.json
+ * Summary:
+ *    Defines the additional metadata can be added to this extension.
+ * See: 
+ *    https://github.com/Azure/azure-cli/blob/master/doc/extensions/metadata.md
+ * =============================================================================*/
+
+{
+    // The minimum CLI core version required (inclusive).
+    // Exclude to not specify a minimum.
+    "azext.minCliCoreVersion": "2.0.12"
+}
