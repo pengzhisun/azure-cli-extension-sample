@@ -1,10 +1,11 @@
 [MESSAGES CONTROL]
 
 #C0111 Missing docstring
+#C0301 Line too long
 #C0303 trailing whitespace
 
 # Disable the message, report, category or checker with the given id(s). You
 # can either give multiple identifier separated by comma (,) or put this option
 # multiple time (only on the command line, not in the configuration file where
 # it should appear only once).
-disable=C0111,C0303,
+disable=C0111,C0301,C0303,
