@@ -16,7 +16,7 @@ helps['hello world'] = """
 """
 
 def helloworld():
-    print "Hello World."
+    print('Hello World.') #pylint: disable-msg=C0325
 
 def load_params(_):
     pass

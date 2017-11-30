@@ -101,5 +101,5 @@ setup(
     # See:
     #    https://packaging.python.org/tutorials/distributing-packages/#install-requires
     #    https://packaging.python.org/en/latest/requirements.html
-    install_requires=['azure-cli-core'],
+    install_requires=[],
 )
